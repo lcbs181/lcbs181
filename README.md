@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=lcbs181&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20things%20on%20Android%2C%20breaking%20things%20on%20purpose&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=lcbs181&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=new%20here%2C%20learning%20Android%20one%20app%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/lcbs181">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hey%2C+I%27m+lcbs181;Android+%2F+Kotlin+developer;Into+red%2Fblue+teaming;Currently+shipping+Grooveo+%F0%9F%8E%A7&font=Fira%20Code&center=true&width=600&height=45&color=A78BFA&vCenter=true&size=22&pause=1800"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hey%2C+I%27m+lcbs181;Android+%2F+Kotlin+newcomer;Currently+shipping+Grooveo+%F0%9F%8E%A7&font=Fira%20Code&center=true&width=600&height=45&color=A78BFA&vCenter=true&size=22&pause=1800"/>
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ## About
 
-- 🔭 Building **[Grooveo](https://github.com/lcbs181/grooveo)** — an on-device, backend-free SoundCloud + YouTube Music client for Android
-- 🛡️ Interested in **red teaming and blue teaming** — offense to understand defense
+- 🐣 Beginner / newcomer — still early in learning software development
+- 🔭 Building **[Grooveo](https://github.com/lcbs181/grooveo)**, my first real app, as the way I'm learning
 - 🌱 Learning by shipping: real Kotlin/Compose UI, real extraction clients, real release infra — not tutorials
-- ⚡ Fun fact: no backend, no login screen, no telemetry you didn't ask for — that's the whole design philosophy
+- 🧩 Also tinkering on [HackTheBox](https://www.hackthebox.com/) now and then
 
 <br/>
 
