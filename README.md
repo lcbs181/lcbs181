@@ -65,16 +65,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lcbs181&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcbs181&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+![Followers](https://img.shields.io/github/followers/lcbs181?style=for-the-badge&color=A78BFA&logo=github&logoColor=white&label=followers)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lcbs181&label=public%20repos&query=public_repos&color=6D28D9&style=for-the-badge)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcbs181&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lcbs181&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)
 
 </div>
 
